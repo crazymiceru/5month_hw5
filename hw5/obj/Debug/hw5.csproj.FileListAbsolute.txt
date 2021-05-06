@@ -1,0 +1,7 @@
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\bin\Debug\hw5.exe.config
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\bin\Debug\hw5.exe
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\bin\Debug\hw5.pdb
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\obj\Debug\hw5.csprojAssemblyReference.cache
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\obj\Debug\hw5.csproj.CoreCompileInputs.cache
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\obj\Debug\hw5.exe
+C:\programm\UnityLearn\hw\hw5.5\hw5\hw5\obj\Debug\hw5.pdb
